@@ -243,7 +243,6 @@ int main(void) {
     }
 
     // si le choix de connexion est session libre, on n'aura pas besoin d'interagir avec le fichier
-    // si le choix de connexion est 1, le joueur est invité à ne pas se connecter
 
     if (choix_connexion==1) {
 
